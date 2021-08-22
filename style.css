@@ -1,22 +1,21 @@
-  
 /* btn stylesheet  */
 
-.btn-groups .btn-item{
-    color: rgb(8, 0, 0);
-    border: 1px solid gray;
-    padding: 5px 10px;
-    border-radius: 5px;
-    outline: none;
-    transition: all .3s linear;
+.btn-groups .btn-item {
+  color: rgb(8, 0, 0);
+  border: 1px solid gray;
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+  transition: all 0.3s linear;
 }
 
-.btn-groups .btn-item:hover{
-    background: gray;
-    color: whitesmoke;
+.btn-groups .btn-item:hover {
+  background: black;
+  color: whitesmoke;
 }
 
 /* table border   */
 
-.last-prize{
-    border-bottom: 1px solid black;
+.last-prize {
+  border-bottom: 1px solid black;
 }
